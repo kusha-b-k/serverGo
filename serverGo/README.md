@@ -1,2 +1,2 @@
 # serverGo
-a simple go server code 
+double click the goserver to start the server !
